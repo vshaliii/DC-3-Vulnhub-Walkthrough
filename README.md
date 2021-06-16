@@ -1,1 +1,1 @@
-# DC-3-Vulnhub-Walkthrough
+# DC 3: Vulnhub Walkthrough
